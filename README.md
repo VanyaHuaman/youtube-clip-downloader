@@ -21,8 +21,8 @@ A simple, standalone Python script to download YouTube clips in the highest qual
 1. **Install yt-dlp:**
 
 ```bash
-# Using pip
-pip install yt-dlp
+# Using pip (use pip3 to ensure Python 3)
+pip3 install yt-dlp
 
 # OR using Homebrew (macOS)
 brew install yt-dlp
@@ -138,7 +138,7 @@ If you try to download a clip from a **currently live stream**, you'll see a war
 
 **"yt-dlp not found"**
 ```bash
-pip install yt-dlp
+pip3 install yt-dlp
 # or
 brew install yt-dlp
 ```
@@ -149,7 +149,7 @@ chmod +x youtube_clip_downloader.py
 ```
 
 **Download fails or gets wrong quality**
-- Update yt-dlp: `pip install --upgrade yt-dlp`
+- Update yt-dlp: `pip3 install --upgrade yt-dlp`
 - Check the URL is correct (should contain `/clip/` for clips)
 - Try running yt-dlp directly to see detailed errors: `yt-dlp -F "YOUR_URL"`
 

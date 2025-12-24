@@ -187,7 +187,7 @@ Free to use and modify. Share with friends! 🎉
 
 ## Related Projects
 
-Looking for a browser extension instead? Check out [YouTube Clip Downloader Extension](https://github.com/YOUR_USERNAME/youtube-clip-downloader-extension)
+Looking for a browser extension instead? Check out [YouTube Clip Downloader Extension](https://github.com/VanyaHuaman/youtube-clip-downloader-extension)
 
 ## Credits
 

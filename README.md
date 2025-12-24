@@ -80,19 +80,19 @@ options:
 
 ```bash
 # Download clip to current directory
-python3 youtube_clip_downloader.py "https://www.youtube.com/clip/UgkxPMkyUyfaEruuGeAdRx8xzfixa4iJd9zj"
+python3 youtube_clip_downloader.py "https://www.youtube.com/clip/UgkxABC123example"
 
 # Download to Downloads folder in highest quality
-python3 youtube_clip_downloader.py "https://www.youtube.com/clip/UgkxPMkyUyfaEruuGeAdRx8xzfixa4iJd9zj" -o ~/Downloads
+python3 youtube_clip_downloader.py "https://www.youtube.com/clip/UgkxABC123example" -o ~/Downloads
 
 # Download in 720p
-python3 youtube_clip_downloader.py "https://www.youtube.com/clip/UgkxPMkyUyfaEruuGeAdRx8xzfixa4iJd9zj" -q 720p -o ~/Downloads
+python3 youtube_clip_downloader.py "https://www.youtube.com/clip/UgkxABC123example" -q 720p -o ~/Downloads
 
 # Download full video (not just clip)
-python3 youtube_clip_downloader.py "https://www.youtube.com/watch?v=VIDEO_ID" -o ~/Downloads
+python3 youtube_clip_downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -o ~/Downloads
 
 # Download as WebM format
-python3 youtube_clip_downloader.py "https://www.youtube.com/clip/CLIP_ID" -f webm
+python3 youtube_clip_downloader.py "https://www.youtube.com/clip/UgkxABC123example" -f webm
 ```
 
 ## Quality Information
